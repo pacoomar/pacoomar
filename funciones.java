@@ -9,7 +9,7 @@ public class funciones {
     }
 
     public static void main(String args[]) {
-        int suma1, suma2, numero1, numero2;
+        int suma1, suma2;
         suma1 = suma(5, 7);
         suma2 = suma(10, 20);
 
@@ -17,3 +17,4 @@ public class funciones {
     }
 }
 // PRUEBA COMMIT
+//DEPURACIÓN COMPLETADA
